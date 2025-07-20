@@ -1,6 +1,6 @@
 ## Ola amigos 👋
 
-![Impressora 3D em ação](https://github.com/afrancox/afrancox/blob/main/assets/sua-animacao-3d.gif?raw=true)
+![Image](https://github.com/user-attachments/assets/0215d899-c3e8-4716-9631-aacbafeb4b73)
 
 ### **Sobre Mim**
 
