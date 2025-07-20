@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ola amigos 👋
+
+![Impressora 3D em ação](https://github.com/afrancox/afrancox/blob/main/assets/sua-animacao-3d.gif?raw=true)
 
 ### **Sobre Mim**
 
@@ -37,6 +39,6 @@ Engenheiro da Computação em formação com sólida base em hardware, eletrôni
 
 * 💬 **Pergunte-me sobre:** Hardware, eletrônica, impressão 3D, automação, projetos com Arduino e Raspberry Pi, e como resolver problemas de forma criativa.
 * 📫 **Como me encontrar:**
-    * [LinkedIn](**(https://www.linkedin.com/in/andr%C3%A9-franco-216068187/)**)
+    * [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-franco-216068187/)
     * E-mail: andrefrancosilveira@gmail.com
-* ⚡ **Curiosidade:** Já fui vendededor de sorvetes e doces na rua, e trabalhei em supermercado antes de mergulhar de cabeça na engenharia e tecnologia, o que me deu uma base sólida em resiliência e foco no cliente!
+* ⚡ **Curiosidade:** Já fui vendedor de sorvetes e doces na rua, e trabalhei em supermercado antes de mergulhar de cabeça na engenharia e tecnologia, o que me deu uma base sólida em resiliência e foco no cliente!
